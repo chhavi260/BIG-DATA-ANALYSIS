@@ -81,4 +81,6 @@ I used the `.corr()` function to measure the relationship between **Popularity**
 - PySpark allowed scalable, efficient handling of this large dataset within an online notebook.
 
 ---
+## OUTPUT
 
+<img width="1234" height="453" alt="Image" src="https://github.com/user-attachments/assets/64315bad-0819-4aa5-b945-1cf18dbd8559" />
